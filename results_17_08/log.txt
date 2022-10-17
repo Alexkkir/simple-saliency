@@ -71,3 +71,201 @@ DEBUG   || 2022-10-17 22:31:06.550 || Shapes: torch.Size([10, 3, 1080, 1920]), t
 DEBUG   || 2022-10-17 22:31:06.598 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
 DEBUG   || 2022-10-17 22:31:06.664 || Means:, 0.37950795888900757, 0.3891856074333191, 0.07513146102428436
 DEBUG   || 2022-10-17 22:31:06.681 || Means:, 0.3796028196811676, 0.3891856074333191, 0.07513146102428436
+DEBUG   || 2022-10-17 22:31:23.720 || Ssim:, 0.7678861021995544, 0.7707858085632324, 0.4712384343147278
+DEBUG   || 2022-10-17 22:31:23.749 || Ssim:, 0.8046496510505676, 0.8181526064872742, 0.5283148288726807
+DEBUG   || 2022-10-17 22:31:26.469 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:31:26.508 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:31:26.576 || Means:, 0.37868472933769226, 0.38795551657676697, 0.07361999899148941
+DEBUG   || 2022-10-17 22:31:26.584 || Means:, 0.37837836146354675, 0.38795551657676697, 0.07361999899148941
+DEBUG   || 2022-10-17 22:31:43.781 || Ssim:, 0.7547399997711182, 0.7553528547286987, 0.45348668098449707
+DEBUG   || 2022-10-17 22:31:43.811 || Ssim:, 0.7889072299003601, 0.7983858585357666, 0.5012184381484985
+DEBUG   || 2022-10-17 22:31:46.373 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:31:46.412 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:31:46.484 || Means:, 0.3741910755634308, 0.38459107279777527, 0.07973286509513855
+DEBUG   || 2022-10-17 22:31:46.502 || Means:, 0.3746661841869354, 0.38459107279777527, 0.07973286509513855
+DEBUG   || 2022-10-17 22:32:03.215 || Ssim:, 0.7589495182037354, 0.7654082179069519, 0.48090577125549316
+DEBUG   || 2022-10-17 22:32:03.523 || Ssim:, 0.7924187779426575, 0.8066002726554871, 0.5279191136360168
+DEBUG   || 2022-10-17 22:32:06.033 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:32:06.183 || Means:, 0.3723113536834717, 0.3831501007080078, 0.09146440029144287
+DEBUG   || 2022-10-17 22:32:06.183 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:32:06.270 || Means:, 0.3721451759338379, 0.3831501007080078, 0.09146440029144287
+DEBUG   || 2022-10-17 22:32:22.920 || Ssim:, 0.7532954812049866, 0.7647973299026489, 0.47976619005203247
+DEBUG   || 2022-10-17 22:32:23.204 || Ssim:, 0.7873591184616089, 0.8063253164291382, 0.528333306312561
+DEBUG   || 2022-10-17 22:32:25.648 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:32:25.694 || Means:, 0.3702879250049591, 0.38134172558784485, 0.09040205925703049
+DEBUG   || 2022-10-17 22:32:25.928 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:32:25.993 || Means:, 0.37011751532554626, 0.38134172558784485, 0.09040205925703049
+DEBUG   || 2022-10-17 22:32:42.026 || Ssim:, 0.7398833632469177, 0.7419106364250183, 0.45374640822410583
+DEBUG   || 2022-10-17 22:32:42.602 || Ssim:, 0.7738864421844482, 0.7815815806388855, 0.49265390634536743
+DEBUG   || 2022-10-17 22:32:44.852 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:32:44.907 || Means:, 0.3699781596660614, 0.3811749219894409, 0.09461406618356705
+DEBUG   || 2022-10-17 22:32:45.415 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:32:45.487 || Means:, 0.3698773682117462, 0.3811749219894409, 0.09461406618356705
+DEBUG   || 2022-10-17 22:33:01.906 || Ssim:, 0.7479575872421265, 0.7359268069267273, 0.43898439407348633
+DEBUG   || 2022-10-17 22:33:01.906 || Ssim:, 0.7798731923103333, 0.7746791243553162, 0.47994011640548706
+DEBUG   || 2022-10-17 22:33:04.683 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:33:04.683 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:33:04.753 || Means:, 0.36957070231437683, 0.381109356880188, 0.08483852446079254
+DEBUG   || 2022-10-17 22:33:04.763 || Means:, 0.36941230297088623, 0.381109356880188, 0.08483852446079254
+DEBUG   || 2022-10-17 22:33:22.115 || Ssim:, 0.7819727659225464, 0.7780439257621765, 0.47682657837867737
+DEBUG   || 2022-10-17 22:33:22.116 || Ssim:, 0.7531100511550903, 0.7462996244430542, 0.4403778612613678
+DEBUG   || 2022-10-17 22:33:24.828 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:33:24.906 || Means:, 0.3689158856868744, 0.3810529112815857, 0.08501715213060379
+DEBUG   || 2022-10-17 22:33:25.036 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:33:25.119 || Means:, 0.3692532777786255, 0.3810529112815857, 0.08501715213060379
+DEBUG   || 2022-10-17 22:33:43.791 || Ssim:, 0.7434859275817871, 0.7245513796806335, 0.42259693145751953
+DEBUG   || 2022-10-17 22:33:43.829 || Ssim:, 0.778438925743103, 0.7660791873931885, 0.4638308882713318
+DEBUG   || 2022-10-17 22:33:47.122 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:33:47.193 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:33:47.281 || Means:, 0.3676750361919403, 0.37990981340408325, 0.06966833770275116
+DEBUG   || 2022-10-17 22:33:47.281 || Means:, 0.3678591549396515, 0.37990981340408325, 0.06966833770275116
+DEBUG   || 2022-10-17 22:34:06.496 || Ssim:, 0.7798205018043518, 0.7731338739395142, 0.47651806473731995
+DEBUG   || 2022-10-17 22:34:06.496 || Ssim:, 0.7432231903076172, 0.7348818778991699, 0.43522515892982483
+DEBUG   || 2022-10-17 22:34:09.606 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:34:09.664 || Means:, 0.36690452694892883, 0.37868252396583557, 0.052402302622795105
+DEBUG   || 2022-10-17 22:34:09.939 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:34:10.039 || Means:, 0.36675626039505005, 0.37868252396583557, 0.052402302622795105
+DEBUG   || 2022-10-17 22:34:28.989 || Ssim:, 0.7370604872703552, 0.735569953918457, 0.4332505762577057
+DEBUG   || 2022-10-17 22:34:28.990 || Ssim:, 0.768502414226532, 0.7742467522621155, 0.47388988733291626
+DEBUG   || 2022-10-17 22:34:32.172 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:34:32.278 || Means:, 0.36409780383110046, 0.376407265663147, 0.05275002494454384
+DEBUG   || 2022-10-17 22:34:32.452 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:34:32.544 || Means:, 0.36414486169815063, 0.376407265663147, 0.05275002494454384
+DEBUG   || 2022-10-17 22:34:50.885 || Ssim:, 0.743223249912262, 0.7624515295028687, 0.4653148651123047
+DEBUG   || 2022-10-17 22:34:51.219 || Ssim:, 0.7757781744003296, 0.8081846237182617, 0.517216145992279
+ERROR   || 2022-10-17 22:34:51.233 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_1000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+ERROR   || 2022-10-17 22:34:51.331 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_2000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:36:45.381 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:36:45.381 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_1000.mp4
+DEBUG   || 2022-10-17 22:36:45.381 || Preparing video readers
+DEBUG   || 2022-10-17 22:36:45.382 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:36:45.383 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_2000.mp4
+DEBUG   || 2022-10-17 22:36:45.383 || Preparing video readers
+DEBUG   || 2022-10-17 22:36:45.560 || Video readers ready
+DEBUG   || 2022-10-17 22:36:45.582 || Video readers ready
+ERROR   || 2022-10-17 22:36:50.496 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_1000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:36:50.553 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:36:50.553 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_4000.mp4
+DEBUG   || 2022-10-17 22:36:50.553 || Preparing video readers
+DEBUG   || 2022-10-17 22:36:50.846 || Video readers ready
+ERROR   || 2022-10-17 22:36:51.248 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_2000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:36:51.321 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:36:51.321 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_huawei_mv_subjective_crowd_run_short_1000.mp4
+DEBUG   || 2022-10-17 22:36:51.321 || Preparing video readers
+DEBUG   || 2022-10-17 22:36:51.503 || Video readers ready
+ERROR   || 2022-10-17 22:36:56.461 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_4000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:36:56.532 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:36:56.532 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_huawei_mv_subjective_crowd_run_short_2000.mp4
+DEBUG   || 2022-10-17 22:36:56.532 || Preparing video readers
+ERROR   || 2022-10-17 22:36:56.771 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_huawei_mv_subjective_crowd_run_short_1000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:36:56.813 || Video readers ready
+DEBUG   || 2022-10-17 22:36:56.850 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:36:56.851 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_huawei_mv_subjective_crowd_run_short_4000.mp4
+DEBUG   || 2022-10-17 22:36:56.851 || Preparing video readers
+DEBUG   || 2022-10-17 22:36:57.077 || Video readers ready
+ERROR   || 2022-10-17 22:37:02.173 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_huawei_mv_subjective_crowd_run_short_2000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:37:02.260 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:37:02.260 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_sif_mv_subjective_crowd_run_short_1000.mp4
+DEBUG   || 2022-10-17 22:37:02.260 || Preparing video readers
+ERROR   || 2022-10-17 22:37:02.607 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_huawei_mv_subjective_crowd_run_short_4000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:37:02.610 || Video readers ready
+DEBUG   || 2022-10-17 22:37:02.667 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:37:02.667 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_sif_mv_subjective_crowd_run_short_2000.mp4
+DEBUG   || 2022-10-17 22:37:02.667 || Preparing video readers
+DEBUG   || 2022-10-17 22:37:02.844 || Video readers ready
+ERROR   || 2022-10-17 22:37:07.873 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_sif_mv_subjective_crowd_run_short_1000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:37:07.952 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:37:07.953 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_sif_mv_subjective_crowd_run_short_4000.mp4
+DEBUG   || 2022-10-17 22:37:07.953 || Preparing video readers
+DEBUG   || 2022-10-17 22:37:08.294 || Video readers ready
+ERROR   || 2022-10-17 22:37:08.484 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_sif_mv_subjective_crowd_run_short_2000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:37:08.587 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:37:08.588 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_sz265_mv_subjective_crowd_run_short_1000.mp4
+DEBUG   || 2022-10-17 22:37:08.588 || Preparing video readers
+DEBUG   || 2022-10-17 22:37:08.748 || Video readers ready
+ERROR   || 2022-10-17 22:37:13.724 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_sif_mv_subjective_crowd_run_short_4000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:37:13.780 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:37:13.780 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_sz265_mv_subjective_crowd_run_short_2000.mp4
+DEBUG   || 2022-10-17 22:37:13.780 || Preparing video readers
+DEBUG   || 2022-10-17 22:37:14.215 || Video readers ready
+ERROR   || 2022-10-17 22:37:14.214 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_sz265_mv_subjective_crowd_run_short_1000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:37:14.311 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:37:14.312 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_sz265_mv_subjective_crowd_run_short_4000.mp4
+DEBUG   || 2022-10-17 22:37:14.312 || Preparing video readers
+DEBUG   || 2022-10-17 22:37:14.501 || Video readers ready
+ERROR   || 2022-10-17 22:37:19.446 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_sz265_mv_subjective_crowd_run_short_2000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:37:19.526 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:37:19.526 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_t265_mv_subjective_crowd_run_short_1000.mp4
+DEBUG   || 2022-10-17 22:37:19.526 || Preparing video readers
+DEBUG   || 2022-10-17 22:37:19.932 || Video readers ready
+ERROR   || 2022-10-17 22:37:19.930 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_sz265_mv_subjective_crowd_run_short_4000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:37:20.000 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:37:20.001 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_t265_mv_subjective_crowd_run_short_2000.mp4
+DEBUG   || 2022-10-17 22:37:20.001 || Preparing video readers
+DEBUG   || 2022-10-17 22:37:20.183 || Video readers ready
+ERROR   || 2022-10-17 22:37:22.135 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_t265_mv_subjective_crowd_run_short_1000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+ERROR   || 2022-10-17 22:37:24.994 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_t265_mv_subjective_crowd_run_short_2000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:37:56.548 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:37:56.549 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_1000.mp4
+DEBUG   || 2022-10-17 22:37:56.549 || Preparing video readers
+DEBUG   || 2022-10-17 22:37:56.550 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:37:56.550 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_2000.mp4
+DEBUG   || 2022-10-17 22:37:56.550 || Preparing video readers
+DEBUG   || 2022-10-17 22:37:56.712 || Video readers ready
+DEBUG   || 2022-10-17 22:37:56.733 || Video readers ready
+DEBUG   || 2022-10-17 22:38:01.797 || Batch progress: 000[000/050]
+DEBUG   || 2022-10-17 22:38:01.799 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:38:01.915 || Batch progress: 000[000/050]
+DEBUG   || 2022-10-17 22:38:01.915 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:38:01.945 || Means:, 0.4038711190223694, 0.41003820300102234, 0.10370521247386932
+DEBUG   || 2022-10-17 22:38:02.019 || Means:, 0.40364307165145874, 0.41003820300102234, 0.10370521247386932
+DEBUG   || 2022-10-17 22:38:20.909 || Ssim:, 0.8304810523986816, 0.8202703595161438, 0.552306592464447
+DEBUG   || 2022-10-17 22:38:20.955 || Ssim:, 0.8128177523612976, 0.7997825741767883, 0.5136646032333374
+DEBUG   || 2022-10-17 22:38:24.030 || Batch progress: 002[001/050]
+DEBUG   || 2022-10-17 22:38:24.072 || Batch progress: 002[001/050]
+DEBUG   || 2022-10-17 22:38:24.073 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:38:24.073 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:38:24.152 || Means:, 0.3999567925930023, 0.406983882188797, 0.10779544711112976
+DEBUG   || 2022-10-17 22:38:24.170 || Means:, 0.3999311923980713, 0.406983882188797, 0.10779544711112976
+DEBUG   || 2022-10-17 22:38:43.419 || Ssim:, 0.8026205897331238, 0.8018736839294434, 0.5090547204017639
+DEBUG   || 2022-10-17 22:38:43.420 || Ssim:, 0.7736261487007141, 0.7598048448562622, 0.45588335394859314
+ERROR   || 2022-10-17 22:38:43.636 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_2000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+ERROR   || 2022-10-17 22:38:43.637 || seq: crowd_run, ref: /home/a_mos/2019/ref/crowd_run_short_1920x1080_50.yuv, dis: /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_1000.mp4, mask: /home/a_mos/2019/masks/crowd_run_mask.mp4
+DEBUG   || 2022-10-17 22:38:55.821 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:38:55.822 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_1000.mp4
+DEBUG   || 2022-10-17 22:38:55.823 || Preparing video readers
+DEBUG   || 2022-10-17 22:38:55.823 || Computations started on sequence:
+DEBUG   || 2022-10-17 22:38:55.825 || /home/a_mos/2019/seq/crowd_run_x265/enc_res_bytedance_mv_subjective_crowd_run_short_2000.mp4
+DEBUG   || 2022-10-17 22:38:55.825 || Preparing video readers
+DEBUG   || 2022-10-17 22:38:56.003 || Video readers ready
+DEBUG   || 2022-10-17 22:38:56.021 || Video readers ready
+DEBUG   || 2022-10-17 22:39:01.500 || Batch progress:   0% [000/050]
+DEBUG   || 2022-10-17 22:39:01.500 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:39:01.701 || Batch progress:   0% [000/050]
+DEBUG   || 2022-10-17 22:39:01.701 || Means:, 0.40364307165145874, 0.41003820300102234, 0.10370521247386932
+DEBUG   || 2022-10-17 22:39:01.701 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:39:01.904 || Means:, 0.4038711190223694, 0.41003820300102234, 0.10370521247386932
+DEBUG   || 2022-10-17 22:39:23.280 || Ssim:, 0.8128177523612976, 0.7997825741767883, 0.5136646032333374
+DEBUG   || 2022-10-17 22:39:23.281 || Ssim:, 0.8304810523986816, 0.8202703595161438, 0.552306592464447
+DEBUG   || 2022-10-17 22:39:26.907 || Batch progress:   2% [001/050]
+DEBUG   || 2022-10-17 22:39:26.949 || Batch progress:   2% [001/050]
+DEBUG   || 2022-10-17 22:39:26.949 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:39:26.949 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:39:27.092 || Means:, 0.3999311923980713, 0.406983882188797, 0.10779544711112976
+DEBUG   || 2022-10-17 22:39:27.113 || Means:, 0.3999567925930023, 0.406983882188797, 0.10779544711112976
+DEBUG   || 2022-10-17 22:39:48.919 || Ssim:, 0.8026205897331238, 0.8018736839294434, 0.5090547204017639
+DEBUG   || 2022-10-17 22:39:48.956 || Ssim:, 0.7736261487007141, 0.7598048448562622, 0.45588335394859314
+DEBUG   || 2022-10-17 22:39:52.808 || Batch progress:   4% [002/050]
+DEBUG   || 2022-10-17 22:39:52.861 || Batch progress:   4% [002/050]
+DEBUG   || 2022-10-17 22:39:52.861 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:39:52.861 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:39:52.992 || Means:, 0.3973625898361206, 0.4033746123313904, 0.10155694931745529
+DEBUG   || 2022-10-17 22:39:53.030 || Means:, 0.39655107259750366, 0.4033746123313904, 0.10155694931745529
+DEBUG   || 2022-10-17 22:40:14.596 || Ssim:, 0.7976573705673218, 0.7896034717559814, 0.483346551656723
+DEBUG   || 2022-10-17 22:40:14.596 || Ssim:, 0.7646907567977905, 0.7426788806915283, 0.4307407736778259
+DEBUG   || 2022-10-17 22:40:18.303 || Batch progress:   6% [003/050]
+DEBUG   || 2022-10-17 22:40:18.343 || Batch progress:   6% [003/050]
+DEBUG   || 2022-10-17 22:40:18.344 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:40:18.344 || Shapes: torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920]), torch.Size([10, 3, 1080, 1920])
+DEBUG   || 2022-10-17 22:40:18.485 || Means:, 0.39235758781433105, 0.3991176187992096, 0.10244723409414291
+DEBUG   || 2022-10-17 22:40:18.504 || Means:, 0.39142826199531555, 0.3991176187992096, 0.10244723409414291
