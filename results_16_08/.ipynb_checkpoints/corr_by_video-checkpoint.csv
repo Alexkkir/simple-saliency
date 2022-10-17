@@ -1,0 +1,3 @@
+Metric,Sequence,Mask,Pearson,Spearman
+ssim,tractor_short,False,0.94034,0.90977
+ssim,tractor_short,True,0.94186,0.90376

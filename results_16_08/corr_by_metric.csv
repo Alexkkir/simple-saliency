@@ -1,0 +1,3 @@
+Metric,Mask,Pearson,Spearman
+ssim,False,0.94034,0.90977
+ssim,True,0.94186,0.90376

@@ -1,0 +1,11 @@
+Metric,Sequence,Mask,Pearson,Spearman
+ssim,crowd_run_short,False,0.02236,0.03054
+ssim,crowd_run_short,True,0.00587,0.00561
+ssim,kayak_trip_short,False,0.00000,0.00000
+ssim,kayak_trip_short,True,0.00000,0.00000
+ssim,making_alcohol_short,False,0.00000,0.00000
+ssim,making_alcohol_short,True,0.00000,0.00000
+ssim,tractor_short,False,0.00000,0.00000
+ssim,tractor_short,True,0.00000,0.00000
+ssim,wedding_party_short,False,0.00000,0.00000
+ssim,wedding_party_short,True,0.00000,0.00000

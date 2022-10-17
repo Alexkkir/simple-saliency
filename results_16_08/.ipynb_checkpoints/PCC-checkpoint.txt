@@ -1,0 +1,11 @@
+             ssim
+Mask=False  0.940
+Mask=True   0.942
+
+
+Metric=ssim:
+            tractor
+Mask=False    0.940
+Mask=True     0.942
+
+

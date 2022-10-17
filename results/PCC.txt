@@ -1,0 +1,11 @@
+             ssim
+Mask=False  0.811
+Mask=True   1.000
+
+
+Metric=ssim:
+            crowd_run
+Mask=False      0.811
+Mask=True       1.000
+
+

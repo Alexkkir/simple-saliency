@@ -1,0 +1,3 @@
+Metric,Sequence,Mask,Pearson,Spearman
+ssim,crowd_run_short,False,0.80900,0.88713
+ssim,crowd_run_short,True,1.00000,1.00000
