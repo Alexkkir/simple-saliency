@@ -1,0 +1,4 @@
+Metric,Mask,Pearson,Spearman
+ssim_fullframe_unsal,False,0.96944,0.96326
+ssim_raw_sal,True,0.97299,0.98165
+ssim_raw_unsal,False,0.91102,0.98165

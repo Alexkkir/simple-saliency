@@ -1,0 +1,7 @@
+DEBUG   || 2022-10-18 09:33:08.836 || Started logging
+DEBUG   || 2022-10-18 09:33:09.000 || Computations started on sequence:
+DEBUG   || 2022-10-18 09:33:09.000 || /home/a_mos/2019/seq/wedding_party_x265/enc_res_bytedance_mv_subjective_wedding_party_short_1000.mkv
+DEBUG   || 2022-10-18 09:33:09.000 || Preparing video readers
+DEBUG   || 2022-10-18 09:33:09.001 || Computations started on sequence:
+DEBUG   || 2022-10-18 09:33:09.001 || /home/a_mos/2019/seq/wedding_party_x265/enc_res_bytedance_mv_subjective_wedding_party_short_2000.mkv
+DEBUG   || 2022-10-18 09:33:09.001 || Preparing video readers

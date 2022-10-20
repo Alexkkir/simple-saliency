@@ -1,0 +1,4 @@
+Metric,Sequence,Mask,Pearson,Spearman
+ssim_fullframe_unsal,wedding_party_short,False,0.96458,0.94578
+ssim_raw_sal,wedding_party_short,True,0.92005,0.91407
+ssim_raw_unsal,wedding_party_short,False,0.87434,0.90599

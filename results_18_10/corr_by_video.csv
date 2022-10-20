@@ -1,0 +1,4 @@
+Metric,Sequence,Mask,Pearson,Spearman
+ssim_fullframe,wedding_party_short,True,0.96314,0.93712
+ssim_simple,wedding_party_short,False,0.95839,0.93692
+ssim_weighted,wedding_party_short,True,0.95896,0.93407

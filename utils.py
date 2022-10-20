@@ -115,7 +115,7 @@ def safe_mean(arr):
     val = float(arr.mean())
     return val
 
-def get_logger(log_filepath):
+def get_logger(log_filepath, info_filepath, errors_filepath):
     logger = logging.getLogger('Logger')
     logger.setLevel(logging.DEBUG)
     formatter = logging.Formatter("%(levelname)-7s || %(asctime)s.%(msecs)03d || %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
@@ -127,7 +127,17 @@ def get_logger(log_filepath):
     fh = logging.FileHandler(log_filepath, 'a+')
     fh.setLevel(logging.DEBUG)
     fh.setFormatter(formatter)
+    
+    fh_info = logging.FileHandler(info_filepath, 'a+')
+    fh_info.setLevel(logging.INFO)
+    fh_info.setFormatter(formatter)
+    
+    fh_err = logging.FileHandler(errors_filepath, 'a+')
+    fh_err.setLevel(logging.ERROR)
+    fh_err.setFormatter(formatter)
 
     logger.addHandler(ch)
     logger.addHandler(fh)
+    logger.addHandler(fh_err)
+    logger.addHandler(fh_info)
     return logger
