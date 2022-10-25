@@ -16,8 +16,7 @@ import json
 from copy import deepcopy
 import pickle as pkl
 import logging
-
-
+import inspect
 
 
 class VideoReader:
@@ -141,3 +140,8 @@ def get_logger(log_filepath, info_filepath, errors_filepath):
     logger.addHandler(fh_err)
     logger.addHandler(fh_info)
     return logger
+
+
+def retrieve_name(var):
+    callers_local_vars = inspect.currentframe().f_back.f_locals.items()
+    return [var_name for var_name, var_val in callers_local_vars if var_val is var]
